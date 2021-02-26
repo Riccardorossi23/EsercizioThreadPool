@@ -1,0 +1,6 @@
+C:\Users\ricca\Documents\compiti tepsit\EsercizioThreadPool\EsercizioThreadPool\bin\Debug\EsercizioThreadPool.exe.config
+C:\Users\ricca\Documents\compiti tepsit\EsercizioThreadPool\EsercizioThreadPool\bin\Debug\EsercizioThreadPool.exe
+C:\Users\ricca\Documents\compiti tepsit\EsercizioThreadPool\EsercizioThreadPool\bin\Debug\EsercizioThreadPool.pdb
+C:\Users\ricca\Documents\compiti tepsit\EsercizioThreadPool\EsercizioThreadPool\obj\Debug\EsercizioThreadPool.csprojAssemblyReference.cache
+C:\Users\ricca\Documents\compiti tepsit\EsercizioThreadPool\EsercizioThreadPool\obj\Debug\EsercizioThreadPool.exe
+C:\Users\ricca\Documents\compiti tepsit\EsercizioThreadPool\EsercizioThreadPool\obj\Debug\EsercizioThreadPool.pdb
